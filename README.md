@@ -18,7 +18,7 @@
        </Header>
 
    <main>
-  <p>
+  
      <h2> Definition </h2>
      Intellectual property (IP) is a category of property that includes intangible creations of the human intellect. There are many types of intellectual property, and some countries recognize more than others. The most well-known types are copyrights, patents, trademarks, and trade secrets. The modern concept of intellectual property developed in England in the 17th and 18th centuries. The term "intellectual property" began to be used in the 19th century, though it was not until the late 20th century that intellectual property became commonplace in the majority of the world's legal systems.<br>
      
@@ -49,7 +49,7 @@ WIPO is the global forum for intellectual property (IP) services, policy, inform
 Our mission is to lead the development of a balanced and effective international IP system that enables innovation and creativity for the benefit of all. The mandate, governing bodies and procedures are set out in the WIPO Convention, which established WIPO in 1967.<br>
 <img style="width:200px;"src="https://youth-time.eu/wp-content/uploads/2019/08/WIPO.jpg" alt="WIPO Logo"/><br>
 <a href="https://www.wipo.int/portal/en/index.html">WIPO website</a>
-</p>
+
    </main>
 
    <footer>
