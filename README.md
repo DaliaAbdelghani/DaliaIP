@@ -13,6 +13,7 @@
         <li> <a href=https://github.com/DaliaAbdelghani">About </a></li>
         <li> <a href=https://github.com/DaliaAbdelghani">Contact </a></li>
         <li> <a href=https://github.com/DaliaAbdelghani">Address</a></li>
+        <li> <a href="https://hamzhsuilik.github.io/lab03/test">News paper</a></li>
       </ul>
     </nav>
        </Header>
