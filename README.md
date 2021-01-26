@@ -18,6 +18,7 @@
        </Header>
 
    <main>
+  
      <h2> Definition </h2>
      Intellectual property (IP) is a category of property that includes intangible creations of the human intellect. There are many types of intellectual property, and some countries recognize more than others. The most well-known types are copyrights, patents, trademarks, and trade secrets. The modern concept of intellectual property developed in England in the 17th and 18th centuries. The term "intellectual property" began to be used in the 19th century, though it was not until the late 20th century that intellectual property became commonplace in the majority of the world's legal systems.<br>
      
