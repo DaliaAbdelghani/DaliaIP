@@ -1,0 +1,17 @@
+*{background-color:beige}
+
+h1{font-style:italic;color:brown;font-weight:bolder;font-family:courier;text-align:center;text-decoration: underline}
+
+h2{color:brown;font-weight:bolder;font-family:courier;text-decoration: underline}
+
+header nav ul {list-style: none;}
+
+header nav ul li{background-color:sienna;background-position: center;}
+
+p{font-style:italic;color:green}
+
+DT{font-weight: bold;background-color:rgb(171, 205, 224);font: normal;text-decoration: underline}
+
+DD{color:blue;}
+
+li{font-style:italic;color:blueviolet}
