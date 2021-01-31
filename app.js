@@ -40,3 +40,30 @@ result = result + itemorder;
 }
 
 document.write(result);
+
+//New fuction 
+
+function getName() {
+    var writerName = prompt('Who is your favourite writer?');
+    var favbook = prompt('Who is your favourite book?');
+    console.log(typeof prompt);
+    console.log(writerName);
+    console.log(favbook);
+  }
+   
+  getName();
+
+    // a and b are the input
+  // function expression
+
+  var getmulit = function (a, b) {
+    var c = a * b;
+    
+    return c;
+  };
+  
+  var multi = getmulit(7, 2);
+  alert(multi); 
+  document.write(multi);
+  console.log(getmulit(20, 25));
+  
